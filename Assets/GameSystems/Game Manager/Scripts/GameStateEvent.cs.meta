@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 60123d9447060624da982950d9677fe2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - onWarmthFail: {fileID: 11400000, guid: b1445e9e10626374aa98dedea323c097, type: 2}
+  - onLevelCleared: {fileID: 11400000, guid: bdccacf26ca14794191c60f0a194dc57, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

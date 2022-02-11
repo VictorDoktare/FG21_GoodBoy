@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 579c824e9b039fb489995e05b5bbb9d3
+  - enabled: 1
+    path: Assets/Scenes/Intro Sequence.unity
+    guid: 2807fa9bd9dc0cc43b8ae09a97cdb4ef
+  - enabled: 1
+    path: Assets/Scenes/Main Play Scene.unity
+    guid: fad685e5b7f0ec34ebd8ffbb24faaeeb
+  - enabled: 1
+    path: Assets/Scenes/End Cutscene.unity
+    guid: df5393ba136e1eb4bb274123e15fe0b0
+  - enabled: 0
+    path: Assets/Scenes/Dan's Anxiety Chamber.unity
+    guid: cc05a4b83aa4dd44ca1d4f527b43f275
+  - enabled: 0
+    path: Assets/Scenes/DT scene.unity
+    guid: ecc13a08b4e7eb74eb638af1da392017
+  m_configObjects: {}

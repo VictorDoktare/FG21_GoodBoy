@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 26e87ef3f57e13044ab22b8f19be18db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _gameTime: {fileID: 11400000, guid: 3c86c96db926e8b47b75d1eab04bc750, type: 2}
+  - onEndTimer: {fileID: 11400000, guid: 8cba72b4b0bba58499c44cec14aafe78, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

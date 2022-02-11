@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be7ffa1f9df7c314295263f11f3a59ee, type: 3}
+  m_Name: HoboBarksDialogue
+  m_EditorClassIdentifier: 
+  name: 
+  sentences:
+  - "I could go for some warm chow for a change\u2026"
+  - "I\u2019m starving! They\u2019d rather throw away food than give it to us!"
+  - "You got any bones to share, bud? Hah\u2026"
+  - "So hungry\u2026 woah. Is the world spinning for you too?"
+  - "So hungry\u2026 woah. is the world spinning for you too?"
+  - Brr! I could really use a fur coat like yours, bud.
+  - Every year the world gets colder. People too.
+  - "I\u2019m chilled to the bone\u2026"
+  - "Ya wouldn\u2019t happen to have a spare hat? I\u2019m about to turn blue."
+  - "I can\u2019t feel my fingers\u2026"
+  - "I could really use a stiff drink. Share it with the other ol\u2019 boys round
+    here."
+  - When you knock back some booze on the streets they think you deserved all this
+    misfortune.
+  - You find a few cigs to keep an old man going?
+  - Even people bringing in an average salary can barely get by. What a miserable
+    world.

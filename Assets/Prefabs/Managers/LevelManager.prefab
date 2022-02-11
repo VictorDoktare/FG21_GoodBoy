@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7185276828392921469
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7185276828392921411}
+  - component: {fileID: 7185276828392921410}
+  m_Layer: 0
+  m_Name: LevelManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7185276828392921411
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7185276828392921469}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7185276828392921410
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7185276828392921469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b10a8efa8e5328a4b843bce41d352bf3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _cutscenes:
+  - {fileID: 0}
+  - {fileID: 0}
+  _postProcessVolumeProfile: {fileID: 11400000, guid: ebe482bd07321cb47ab84b1bb8e6cbf2, type: 2}
+  jukeBox: {fileID: 0}
+  _level2WarmthThreshold: 55
+  _level3WarmthThreshold: 90
+  _day1Temperature: 0
+  _day1Exposure: 0
+  _day2Temperature: -24
+  _day2Exposure: -0.4
+  _day3Temperature: -50
+  _day3Exposure: -1
+  _dayPrefabs:
+  - {fileID: 7137466579321955744, guid: ee8d3cce31411d04786379984d63bbac, type: 3}
+  - {fileID: 2342271216406783216, guid: 1dafb52c2571ba54089101d3e5f08f8b, type: 3}
+  - {fileID: 6249980347171145169, guid: 0bcaaee33b5e8624fb4bd8ac8969a45f, type: 3}

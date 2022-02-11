@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9922923ca35da66408a7ce080068114a, type: 3}
+  m_Name: Food Loot Category
+  m_EditorClassIdentifier: 
+  CommonPool: {fileID: 11400000, guid: d8522a0566900a649a525b166ba1699e, type: 2}
+  RarePool: {fileID: 11400000, guid: 12f7cf2695727754d847ab2f9d171765, type: 2}
+  LegendaryPool: {fileID: 11400000, guid: f8c63f9b75cf995419cc4189a3fe9913, type: 2}
